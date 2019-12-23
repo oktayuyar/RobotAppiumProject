@@ -1,0 +1,11 @@
+#Intellij
+.idea/
+
+
+# Mac
+.DS_Store
+
+#Reports
+*.html
+*.xml
+*.png
